@@ -26,3 +26,4 @@ pause
 :: cls at end (instead of at beginning) to show vcvars
 cls
 goto :loop
+
